@@ -1,3 +1,5 @@
+Antes de empezar, descargar las dos imagenes que se llaman Plantilla-QR y Perfil-QR las cuales serviran para redirigir hacia estas paginas para ir viendo como funcionara. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
