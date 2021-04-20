@@ -1,0 +1,59 @@
+[
+    {
+        "id":"1",
+        "url": "luis-fernando-figueroa-rendon",
+        "img": "fer.png",
+        "nombre": "Luis Fernando Figueroa Rendon",
+        "sexo": "M",
+        "domicilio": "Calle no se que no.87 colonia no se que, estado de méxico",
+        "clave": "JHD7890002772652442",
+        "curp": "LFF12329438849MGH",
+        "año-registro": "2018",
+        "fecha-nacimiento": "14/04/1999",
+        "seccion": "007",
+        "vigencia": "2023"
+    },
+
+    {
+        "id":"2",
+        "url": "alejandro-medero-lujan",
+        "img": "alex.png",
+        "nombre": "Alejandro Medero Lujan",
+        "sexo": "M",
+        "domicilio": "Calle no se que no.12 colonia no se que, estado de méxico",
+        "clave": "SGTEH290002772652442",
+        "curp": "AMJ12329438849MIII",
+        "año-registro": "2017",
+        "fecha-nacimiento": "14/04/1999",
+        "seccion": "008",
+        "vigencia": "2025"
+    },
+    {
+        "id":"3",
+        "url": "saul-rodrigo-toral-luna",
+        "img": "saul.png",
+        "nombre": "Saul Rodrigo Toral Luna",
+        "sexo": "F",
+        "domicilio": "Riopar no.4 Fraccionamiento Real Esmeralda, Zona Esmeralda, Estado de México",
+        "clave": "YHDGTT290002772652442",
+        "curp": "SRTL2329438849M19I",
+        "año-registro": "2017",
+        "fecha-nacimiento": "14/08/1999",
+        "seccion": "008",
+        "vigencia": "2024"
+    },
+    {
+        "id":"4",
+        "url": "ernesto-ibhar-guevara-gomez",
+        "img": "neto.png",
+        "nombre": "Ernesto Ibhar Guevara Gomez",
+        "sexo": "M",
+        "domicilio": "Ernesto Ibhar Guevara Gómez",
+        "clave": "PLOY679890002772652442",
+        "curp": "GUGE2329438849M8990",
+        "año-registro": "2018",
+        "fecha-nacimiento": "12/08/1999",
+        "seccion": "002",
+        "vigencia": "2024"
+    }
+]

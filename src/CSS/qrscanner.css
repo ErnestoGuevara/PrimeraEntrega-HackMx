@@ -1,0 +1,44 @@
+.contenedor-scanner{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    flex-wrap: wrap;
+    
+}
+.conteiner-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    
+}
+.conteiner-top h3{
+    
+    margin-left: 1.5rem;
+    text-transform: uppercase;
+}
+
+.camara{
+    margin-top: 3.5rem;
+    margin-bottom: 7rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+/* GENERADOR QR */
+.generador-QR{
+    
+    margin: 5rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .contenedor-scanner{
+        display: flex;
+        flex-direction:row;
+        flex-wrap: wrap;
+    }
+  }
